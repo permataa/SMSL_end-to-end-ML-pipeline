@@ -1,0 +1,2 @@
+https://github.com/permataa/Workflow-CI
+https://hub.docker.com/r/iddokerku/personality-classification/tags
