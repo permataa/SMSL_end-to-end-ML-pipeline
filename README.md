@@ -66,14 +66,14 @@ Pipeline GitHub Actions akan:
 4. Build Docker image dari model terbaik
 5. Push image ke Docker Hub
 
+* Link akses : https://github.com/permataa/Workflow-CI
+* Github action : https://github.com/permataa/Workflow-CI/actions/runs/15785426564
+* Docker Hub : https://hub.docker.com/r/iddokerku/personality-classification/tags
+  
 Secrets yang diperlukan:
 
 * `DOCKER_USERNAME`
 * `DOCKER_PASSWORD`
-
-* Link akses : https://github.com/permataa/Workflow-CI
-* Github action : https://github.com/permataa/Workflow-CI/actions/runs/15785426564
-* Docker Hub : https://hub.docker.com/r/iddokerku/personality-classification/tags
 ---
 
 ## 🖥️ 4. Deployment dan Monitoring
