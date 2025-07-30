@@ -71,9 +71,9 @@ Secrets yang diperlukan:
 * `DOCKER_USERNAME`
 * `DOCKER_PASSWORD`
 
-Link akses : https://github.com/permataa/Workflow-CI
-Github action : https://github.com/permataa/Workflow-CI/actions/runs/15785426564
-Docker Hub : https://hub.docker.com/r/iddokerku/personality-classification/tags
+* Link akses : https://github.com/permataa/Workflow-CI
+* Github action : https://github.com/permataa/Workflow-CI/actions/runs/15785426564
+* Docker Hub : https://hub.docker.com/r/iddokerku/personality-classification/tags
 ---
 
 ## 🖥️ 4. Deployment dan Monitoring
@@ -92,11 +92,11 @@ Dokumentasi dan screenshot tersedia di folder `Monitoring dan Logging/`
 
 * `screenshoot_dashboard.jpg`: <img width="1366" height="727" alt="Dashboard_permatayra" src="https://github.com/user-attachments/assets/32888dc9-0365-49a5-b784-87c937eb0864" />
 
-* `screenshoot_artifak.jpg`: <img width="1366" height="727" alt="Dashboard_permatayra" src="https://github.com/user-attachments/assets/39dacf62-6c4b-4b4d-93b9-3404e1632e03" />
+* `screenshoot_artifak.jpg`: <img width="1366" height="734" alt="screenshot_artifak_modelling tuning" src="https://github.com/user-attachments/assets/9829ce98-1360-40ba-9a90-a47216c9f46d" />
 
-* Folder `bukti_serving/` hingga `Grafana/`: <img width="1366" height="727" alt="Dashboard_permatayra" src="https://github.com/user-attachments/assets/8e7ed766-8a4c-46bd-bf7f-345a6b89c9d7" />
-<img width="1366" height="727" alt="Dashboard_permatayra" src="https://github.com/user-attachments/assets/6abc26d6-fa35-48d8-8008-387aec109e73" />
 
+* Folder `bukti_serving/` hingga `Grafana/`: <img width="977" height="97" alt="1 bukti_serving" src="https://github.com/user-attachments/assets/f57777c5-9818-4924-a4c4-c0ae34acc86c" />
+<img width="1366" height="727" alt="Dashboard_permatayra" src="https://github.com/user-attachments/assets/52c9876d-8783-41c0-8997-af16b100e643" />
 
 
 ---
@@ -131,10 +131,4 @@ graph TD
 
 ## 🙌 Kontribusi dan Kontak
 
-Proyek ini dikerjakan secara mandiri oleh \Permata Ayu, sebagai bagian dari pembelajaran dan portofolio Machine Learning.
-
----
-
-## 📄 Lisensi
-
-MIT License
+Proyek ini dikerjakan secara mandiri oleh \Permata Ayu
