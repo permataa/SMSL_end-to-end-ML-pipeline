@@ -90,7 +90,7 @@ Dokumentasi dan screenshot tersedia di folder `Monitoring dan Logging/`
 
 ## 📸 Dokumentasi Visual
 
-* `screenshoot_dashboard.jpg`: <img width="1366" height="727" alt="Dashboard_permatayra" src="https://github.com/user-attachments/assets/32888dc9-0365-49a5-b784-87c937eb0864" />
+* `screenshoot_dashboard.jpg`: <img width="1366" height="717" alt="screenshot_dashboard" src="https://github.com/user-attachments/assets/7f7e44ce-cbfb-47ec-97ad-04b32890c92c" />
 
 * `screenshoot_artifak.jpg`: <img width="1366" height="734" alt="screenshot_artifak_modelling tuning" src="https://github.com/user-attachments/assets/9829ce98-1360-40ba-9a90-a47216c9f46d" />
 
